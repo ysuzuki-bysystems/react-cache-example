@@ -1,0 +1,19 @@
+:root {
+    font-size: 32px;
+}
+
+main {
+    margin: 1rem;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+pre {
+    display: inline-block;
+    font-weight: bold;
+    margin: 0 1rem;
+}
